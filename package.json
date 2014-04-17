@@ -1,0 +1,8 @@
+{
+  "name": "errloc",
+  "version": "0.0.1",
+  "description": "Error logger",
+  "author": "Thomas HUET",
+  "dependencies": {"callsite": "1.0.0"},
+  "main": "errloc"
+}
