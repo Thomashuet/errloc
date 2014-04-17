@@ -2,7 +2,11 @@
 
 Errloc is an error logger that tracks every line processing an error (not just the one producing the error).
 
-# Usage
+## Install
+
+    npm install errloc
+
+## Usage
 
 Start with
 

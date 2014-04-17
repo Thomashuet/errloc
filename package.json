@@ -1,8 +1,12 @@
 {
   "name": "errloc",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Error logger",
-  "author": "Thomas HUET",
+  "author": "Thomas HUET <thomas.h@ens.fr>",
   "dependencies": {"callsite": "1.0.0"},
-  "main": "errloc"
+  "main": "errloc",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Thomashuet/errloc.git"
+  }
 }
