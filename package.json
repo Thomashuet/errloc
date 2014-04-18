@@ -7,6 +7,6 @@
   "main": "errloc",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Thomashuet/errloc.git"
+    "url": "git://github.com/Thomashuet/errloc.git"
   }
 }
